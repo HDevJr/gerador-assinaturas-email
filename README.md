@@ -8,8 +8,8 @@ Automatiza a criação de assinaturas visuais (cartões de contato) a partir de 
 
 - **Python**  
 - Bibliotecas:
-  - `Pillow` (PIL fork) para manipulação de imagem (texto sobre template) :contentReference[oaicite:2]{index=2}  
-  - `openpyxl` para leitura de planilha Excel (`.xlsx`) :contentReference[oaicite:3]{index=3}  
+  - `Pillow` (PIL fork) para manipulação de imagem (texto sobre template)  
+  - `openpyxl` para leitura de planilha Excel (`.xlsx`)
   - Fonte customizada via `ttf_opensans` (OpenSans Bold e Regular)
 
 ---
